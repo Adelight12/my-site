@@ -1,3 +1,6 @@
+---
+title: Apple Roofing Toronto
+---
 ## Welcome
 
 We offer roof repairs, replacements and inspections across Toronto and the GTA.
@@ -9,3 +12,5 @@ We offer roof repairs, replacements and inspections across Toronto and the GTA.
 
 ## Contact
 Call us on [+1 (416) 555-0100](tel:+14165550100)
+
+[Home](index.html) | [About](about.html) | [Services](services.html) | [Contact](contact.html)
