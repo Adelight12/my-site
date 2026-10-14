@@ -3,6 +3,8 @@ title: Apple Roofing Toronto
 ---
 ## Welcome
 
+![Finished shingle roof on a Toronto home](hero.jpg)
+
 We offer roof repairs, replacements and inspections across Toronto and the GTA.
 
 ## Our Services
